@@ -7,7 +7,7 @@ This script is for backing up files to storage with rsync.
 3. Backup storage is mounted  
 
 ## How to run
-```$ source backup_to_remote.sh```
+```$ source backup_to_storage.sh```
 
 ## Option included to rsync
 -a, --archive               archive mode; same as -rlptgoD (no -H)
